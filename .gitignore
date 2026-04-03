@@ -1,0 +1,24 @@
+# Model files
+*.pt
+*.bin
+*.docx
+
+# Data
+*.csv
+*.npy
+*.pkl
+
+# Cache
+__pycache__/
+*.pyc
+
+# Build
+.dist/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
